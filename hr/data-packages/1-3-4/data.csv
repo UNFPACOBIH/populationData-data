@@ -1126,6 +1126,29 @@ Year,Spol,Uzrok smrti (prema šiframa bolesti po MKB-10),UNIT_MEASURE,Value
 2019,M,(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom,Broj,7
 2019,M,Nepoznato,Broj,349
 2019,M,Ukupno,Broj,19787
+2020,_M,(A00-B99) Zarazne i parazitarne bolesti,Broj,229
+2020,_M,"(C00-C97,D00-D48) Neoplazme",Broj,4520
+2020,_M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava",Broj,37
+2020,_M,"(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma",Broj,875
+2020,_M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,Broj,150
+2020,_M,(G00-G99) Bolesti nervnog sustava,Broj,222
+2020,_M,"(H00-H93) Bolesti oka, uha i adneksa",Broj,6
+2020,_M,(I00-I99) Bolesti cirkulacijskog sustava,Broj,9303
+2020,_M,(J00-J99) Bolesti respiratornog sustava,Broj,1327
+2020,_M,(K00-K93) Bolesti digestivnog sustava,Broj,632
+2020,_M,(L00-L99) Bolesti kože i potkožnog tkiva,Broj,24
+2020,_M,(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva,Broj,14
+2020,_M,(N00-N99) Bolesti genitalno-urinarnog sustava,Broj,320
+2020,_M,"(O00-O99) Trudnoća, porođaj i postporođajni period",Broj,0
+2020,_M,(P00-P96) Određena stanja nastala u perinatalnom periodu,Broj,62
+2020,_M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti",Broj,22
+2020,_M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo",Broj,1480
+2020,_M,"(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka",Broj,665
+2020,_M,(V01-Y98) Vanjski uzroci mortaliteta,Broj,8
+2020,_M,(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom,Broj,8
+2020,_M,Covid-19,Broj,2829
+2020,_M,Nepoznato,Broj,307
+2020,_M,Ukupno,Broj,23040
 2019,Ž,(A00-B99) Zarazne i parazitarne bolesti,Broj,210
 2019,Ž,"(C00-C97,D00-D48) Neoplazme",Broj,3447
 2019,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava",Broj,60
