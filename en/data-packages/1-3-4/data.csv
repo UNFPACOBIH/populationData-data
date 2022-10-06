@@ -1082,6 +1082,29 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2019,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,10
 2019,Both sexes,Unknown,Number,583
 2019,Both sexes,Total,Number,38829
+2020,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,429
+2020,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7880
+2020,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,89
+2020,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2200
+2020,Both sexes,(F00-F99) Mental and behavioural disorders,Number,314
+2020,Both sexes,(G00-G99) Diseases of the nervous system,Number,457
+2020,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,10
+2020,Both sexes,(I00-I99) Diseases of the circulatory system,Number,20052
+2020,Both sexes,(J00-J99) Diseases of the respiratory system,Number,2279
+2020,Both sexes,(K00-K93) Diseases of the digestive system,Number,1062
+2020,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,50
+2020,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,57
+2020,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,615
+2020,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,4
+2020,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,116
+2020,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,34
+2020,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2859
+2020,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,881
+2020,Both sexes,(V01-Y98) External causes of mortality,Number,12
+2020,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,12
+2020,Both sexes,Covid-19,Number,4438
+2020,Both sexes,Unknown,Number,577
+2020,Both sexes,Total,Number,44427
 2019,M,(A00-B99) Infectious and parasitic diseases,Number,241
 2019,M,"(C00-C97,D00-D48) Neoplasms",Number,4606
 2019,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,30

@@ -1082,6 +1082,29 @@ Year,Spol,Uzrok smrti (prema šiframa bolesti po MKB-10),UNIT_MEASURE,Value
 2019,Oba spola,(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom,Broj,10
 2019,Oba spola,Nepoznato,Broj,583
 2019,Oba spola,Ukupno,Broj,38829
+2020,Oba spola,(A00-B99) Zarazne i parazitarne bolesti,Broj,429
+2020,Oba spola,"(C00-C97,D00-D48) Neoplazme",Broj,7880
+2020,Oba spola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava",Broj,89
+2020,Oba spola,"(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma",Broj,2200
+2020,Oba spola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,Broj,314
+2020,Oba spola,(G00-G99) Bolesti nervnog sustava,Broj,457
+2020,Oba spola,"(H00-H93) Bolesti oka, uha i adneksa",Broj,10
+2020,Oba spola,(I00-I99) Bolesti cirkulacijskog sustava,Broj,20052
+2020,Oba spola,(J00-J99) Bolesti respiratornog sustava,Broj,2279
+2020,Oba spola,(K00-K93) Bolesti digestivnog sustava,Broj,1062
+2020,Oba spola,(L00-L99) Bolesti kože i potkožnog tkiva,Broj,50
+2020,Oba spola,(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva,Broj,57
+2020,Oba spola,(N00-N99) Bolesti genitalno-urinarnog sustava,Broj,615
+2020,Oba spola,"(O00-O99) Trudnoća, porođaj i postporođajni period",Broj,4
+2020,Oba spola,(P00-P96) Određena stanja nastala u perinatalnom periodu,Broj,116
+2020,Oba spola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti",Broj,34
+2020,Oba spola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo",Broj,2859
+2020,Oba spola,"(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka",Broj,881
+2020,Oba spola,(V01-Y98) Vanjski uzroci mortaliteta,Broj,12
+2020,Oba spola,(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom,Broj,12
+2020,Oba spola,Covid-19,Broj,4438
+2020,Oba spola,Nepoznato,Broj,577
+2020,Oba spola,Ukupno,Broj,44427
 2019,M,(A00-B99) Zarazne i parazitarne bolesti,Broj,241
 2019,M,"(C00-C97,D00-D48) Neoplazme",Broj,4606
 2019,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava",Broj,30
